@@ -8,3 +8,8 @@ feature_a = () => {
 }
 
 feature_a();
+
+
+fetaure_c = () =>{
+    // feature c to be added 
+}
