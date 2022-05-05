@@ -7,8 +7,8 @@ feature_a = () => {
     a = a+b
     return a+b
     return a+b*2
-}
-
+} 
+// additional comment
 // commented this changes
 feature_a();
 
